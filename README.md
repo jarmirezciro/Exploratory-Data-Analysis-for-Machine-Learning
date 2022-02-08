@@ -1,1 +1,1 @@
-# IBM-Machine-Learning-Assigments
+# IBM Exploratory Data Analysis for Machine Learning
